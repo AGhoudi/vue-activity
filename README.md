@@ -10,7 +10,7 @@ Le principe du jeu est simple, lors d'un clic on retourne une carte, l'objectif 
 Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le jeu est fini.</p>
 
 <h2 align=center>👁️ Visuel :</h2>
-<div align=center><img src="https://i.postimg.cc/XvK18NBm/memory.jpg" alt="visuel du jeu"</div>
+<div align=center>A venir</div>
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
